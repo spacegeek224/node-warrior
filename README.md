@@ -20,7 +20,7 @@ If you get a `command not found` message, install the missing tool:
 To start contributing to this project:
 
 ```
-git clone https://github.com/kumavis/node-warrior.git
+git clone https://github.com/spacegeek224/node-warrior.git
 cd node-warrior
 npm install
 ```
